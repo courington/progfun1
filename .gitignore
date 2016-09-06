@@ -1,8 +1,8 @@
 .git
 .DS_Store
 
+*/.ensime
 */.ensime_cache
-*/project/.ensime_cache
 
 */target
 */*/target
